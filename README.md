@@ -31,10 +31,10 @@ We do NOT sell, trade, or share your personal data with third parties.
 When you search for LEGO sets, your search keywords are sent to Rebrickable (a LEGO catalogue service) to look up set information. No account information is included.
 
 ### Data Storage
-Your data is securely stored using trusted backend services.
+Your data is securely stored using trusted backend services. Encrypted backups are kept for up to 60 days.
 
 ### Your Rights
-You can delete your account at any time directly in the app: go to **Profile → Delete Account**. This permanently deletes your account and all associated data — your profile, collection records, wishlist, recent searches and avatar. This cannot be undone.
+You can delete your account at any time directly in the app: go to **Profile → Delete Account**. This permanently deletes your account and all associated data — your profile, collection records, wishlist, recent searches and avatar. This cannot be undone. Copies may remain in our encrypted backups for up to 60 days, after which they are deleted automatically.
 
 If you can't access the app, email us at alix@fiaaatlux.com and we will delete your data for you.
 
@@ -73,10 +73,10 @@ BrickKeeper 尊重你的隐私。
 搜索乐高套装时，搜索关键词会发送给 Rebrickable（乐高目录服务）来查询套装信息，不包含任何账号信息。
 
 ### 数据存储
-你的数据安全地保存在可信的后端服务中。
+你的数据安全地保存在可信的后端服务中。加密备份最多保留 60 天。
 
 ### 你的权利
-你可以随时在 App 里直接删除账号：进入 **我的 → 删除账号**。这会永久删除你的账号及所有相关数据，包括个人资料、收藏记录、心愿单、搜索记录和头像，且无法恢复。
+你可以随时在 App 里直接删除账号：进入 **我的 → 删除账号**。这会永久删除你的账号及所有相关数据，包括个人资料、收藏记录、心愿单、搜索记录和头像，且无法恢复。删除后，数据可能仍在加密备份中保留最多 60 天，之后自动清除。
 
 如果无法打开 App，也可以发邮件到 alix@fiaaatlux.com，我们会帮你删除数据。
 
