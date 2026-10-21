@@ -6,7 +6,6 @@ If you have any questions or need help, please contact:
 
 Email: support@fiaaatlux.com
 
-We will respond within 48 hours.
 
 ---
 
@@ -50,7 +49,6 @@ Last updated: October 21, 2026
 
 如有任何问题或需要帮助，请联系：support@fiaaatlux.com
 
-我们会在 48 小时内回复。
 
 ## 隐私政策（中文）
 
