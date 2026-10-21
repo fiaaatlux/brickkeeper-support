@@ -4,7 +4,7 @@
 
 If you have any questions or need help, please contact:
 
-Email: alix@fiaaatlux.com
+Email: support@fiaaatlux.com
 
 We will respond within 48 hours.
 
@@ -36,11 +36,11 @@ Your data is securely stored using trusted backend services. Encrypted backups a
 ### Your Rights
 You can delete your account at any time directly in the app: go to **Profile → Delete Account**. This permanently deletes your account and all associated data — your profile, collection records, wishlist, recent searches and avatar. This cannot be undone. Copies may remain in our encrypted backups for up to 60 days, after which they are deleted automatically.
 
-If you can't access the app, email us at alix@fiaaatlux.com and we will delete your data for you.
+If you can't access the app, email us at support@fiaaatlux.com and we will delete your data for you.
 
 ### Contact
 If you have questions about this policy:
-Email: alix@fiaaatlux.com
+Email: support@fiaaatlux.com
 
 Last updated: October 21, 2026
 
@@ -48,7 +48,7 @@ Last updated: October 21, 2026
 
 ## 技术支持（中文）
 
-如有任何问题或需要帮助，请联系：alix@fiaaatlux.com
+如有任何问题或需要帮助，请联系：support@fiaaatlux.com
 
 我们会在 48 小时内回复。
 
@@ -78,9 +78,9 @@ BrickKeeper 尊重你的隐私。
 ### 你的权利
 你可以随时在 App 里直接删除账号：进入 **我的 → 删除账号**。这会永久删除你的账号及所有相关数据，包括个人资料、收藏记录、心愿单、搜索记录和头像，且无法恢复。删除后，数据可能仍在加密备份中保留最多 60 天，之后自动清除。
 
-如果无法打开 App，也可以发邮件到 alix@fiaaatlux.com，我们会帮你删除数据。
+如果无法打开 App，也可以发邮件到 support@fiaaatlux.com，我们会帮你删除数据。
 
 ### 联系我们
-如对本政策有疑问，请联系：alix@fiaaatlux.com
+如对本政策有疑问，请联系：support@fiaaatlux.com
 
 最后更新：2026 年 10 月 21 日
